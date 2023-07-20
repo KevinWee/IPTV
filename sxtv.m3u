@@ -159,19 +159,19 @@ http://192.168.31.1:8666/rtp/226.0.1.188:3116
 #EXTINF:-1,tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.31.1:8666/rtp/226.0.1.154:3084
 
-#EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="省内",山西卫视
+#EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://upload.112114.xyz/logo/sxtv.png" group-title="省内",山西卫视
 http://192.168.31.1:8666/rtp/226.0.1.85:2001
 
-#EXTINF:-1,tvg-id="" tvg-name="山西经济" tvg-logo="https://epg.112114.xyz/logo/山西经济.png" group-title="省内",经济与科技
+#EXTINF:-1,tvg-id="" tvg-name="山西经济" tvg-logo="https://upload.112114.xyz/logo/sxjjykj.png" group-title="省内",经济与科技
 http://192.168.31.1:8666/rtp/226.0.1.81:2003
 
-#EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西影视.png" group-title="省内",山西影视
+#EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://upload.112114.xyz/logo/sxys.png" group-title="省内",山西影视
 http://192.168.31.1:8666/rtp/226.0.1.82:2004
 
-#EXTINF:-1,tvg-id="" tvg-name="山西社会与法治" tvg-logo="https://epg.112114.xyz/logo/山西社会与法治.png" group-title="省内",社会与法治
+#EXTINF:-1,tvg-id="" tvg-name="山西社会与法治" tvg-logo="https://upload.112114.xyz/logo/sxshyfz.png" group-title="省内",社会与法治
 http://192.168.31.1:8666/rtp/226.0.1.83:2005
 
-#EXTINF:-1,tvg-id="" tvg-name="山西公共" tvg-logo="https://epg.112114.xyz/logo/山西公共.png" group-title="省内",文体生活
+#EXTINF:-1,tvg-id="" tvg-name="山西公共" tvg-logo="https://upload.112114.xyz/logo/sxwtsh.png" group-title="省内",文体生活
 http://192.168.31.1:8666/rtp/226.0.1.200:2006
 
 #EXTINF:-1,tvg-id="" tvg-name="黄河卫视" tvg-logo="https://epg.112114.xyz/logo/山西黄河.png" group-title="省内",山西黄河
