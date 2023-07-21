@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/cctv1.png" group-title="央视",CCTV-1
 http://192.168.31.1:8666/rtp/226.0.1.157:3086
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
@@ -45,7 +45,7 @@ http://192.168.31.1:8666/rtp/226.0.1.170:3094
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
 http://192.168.31.1:8666/rtp/226.0.1.32:3028
 
-#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://upload.112114.xyz/logo/cctv16.png" group-title="央视",CCTV-16
 http://192.168.31.1:8666/rtp/226.0.1.118:2032
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
