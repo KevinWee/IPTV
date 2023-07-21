@@ -54,37 +54,37 @@ http://192.168.31.1:8666/rtp/226.0.1.117:2033
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://192.168.31.1:8666/rtp/226.0.1.172:3096
 
-#EXTINF:-1,tvg-id="" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视数字",风云足球
+#EXTINF:-1,tvg-id="" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视风云",风云足球
 http://192.168.31.1:8666/rtp/226.0.1.209:2122
 
-#EXTINF:-1,tvg-id="" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视数字",风云音乐
+#EXTINF:-1,tvg-id="" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视风云",风云音乐
 http://192.168.31.1:8666/rtp/226.0.1.164:2109
 
-#EXTINF:-1,tvg-id="" tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="央视数字",央视文化精品
+#EXTINF:-1,tvg-id="" tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="央视风云",央视文化精品
 http://192.168.31.1:8666/rtp/226.0.1.162:2108
 
-#EXTINF:-1,tvg-id="" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视数字",第一剧场
+#EXTINF:-1,tvg-id="" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视风云",第一剧场
 http://192.168.31.1:8666/rtp/226.0.1.167:2110
 
-#EXTINF:-1,tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视数字",怀旧剧场
+#EXTINF:-1,tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视风云",怀旧剧场
 http://192.168.31.1:8666/rtp/226.0.1.182:2121
 
-#EXTINF:-1,tvg-id="" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视数字",风云剧场
+#EXTINF:-1,tvg-id="" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视风云",风云剧场
 http://192.168.31.1:8666/rtp/226.0.1.212:2133
 
-#EXTINF:-1,tvg-id="" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视数字",世界地理
+#EXTINF:-1,tvg-id="" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视风云",世界地理
 http://192.168.31.1:8666/rtp/226.0.1.169:2111
 
-#EXTINF:-1,tvg-id="" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视数字",兵器科技
+#EXTINF:-1,tvg-id="" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视风云",兵器科技
 http://192.168.31.1:8666/rtp/226.0.1.171:2115
 
-#EXTINF:-1,tvg-id="" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视数字",央视台球
+#EXTINF:-1,tvg-id="" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视风云",央视台球
 http://192.168.31.1:8666/rtp/226.0.1.181:2118
 
-#EXTINF:-1,tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视数字",高尔夫网球
+#EXTINF:-1,tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视风云",高尔夫网球
 http://192.168.31.1:8666/rtp/226.0.1.211:2132
 
-#EXTINF:-1,tvg-id="" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视数字",女性时尚
+#EXTINF:-1,tvg-id="" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视风云",女性时尚
 http://192.168.31.1:8666/rtp/226.0.1.210:2128
 
 #EXTINF:-1,tvg-id="" tvg-name="北京卫视" tvg-logo="https://upload.112114.xyz/logo/BRTV_BRTV.png" group-title="卫视",北京卫视
@@ -162,16 +162,16 @@ http://192.168.31.1:8666/rtp/226.0.1.154:3084
 #EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://upload.112114.xyz/logo/sxtv.png" group-title="省内",山西卫视
 http://192.168.31.1:8666/rtp/226.0.1.85:2001
 
-#EXTINF:-1,tvg-id="" tvg-name="山西经济" tvg-logo="https://upload.112114.xyz/logo/sxjjykj.png" group-title="省内",经济与科技
+#EXTINF:-1,tvg-id="" tvg-name="山西经济与科技" tvg-logo="https://upload.112114.xyz/logo/sxjjykj.png" group-title="省内",经济与科技
 http://192.168.31.1:8666/rtp/226.0.1.81:2003
 
-#EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://upload.112114.xyz/logo/sxys.png" group-title="省内",山西影视
+#EXTINF:-1,tvg-id="" tvg-name="山西影视" tvg-logo="https://upload.112114.xyz/logo/sxys.png" group-title="省内",山西影视
 http://192.168.31.1:8666/rtp/226.0.1.82:2004
 
 #EXTINF:-1,tvg-id="" tvg-name="山西社会与法治" tvg-logo="https://upload.112114.xyz/logo/sxshyfz.png" group-title="省内",社会与法治
 http://192.168.31.1:8666/rtp/226.0.1.83:2005
 
-#EXTINF:-1,tvg-id="" tvg-name="山西公共" tvg-logo="https://upload.112114.xyz/logo/sxwtsh.png" group-title="省内",文体生活
+#EXTINF:-1,tvg-id="" tvg-name="山西文体生活" tvg-logo="https://upload.112114.xyz/logo/sxwtsh.png" group-title="省内",文体生活
 http://192.168.31.1:8666/rtp/226.0.1.200:2006
 
 #EXTINF:-1,tvg-id="" tvg-name="黄河卫视" tvg-logo="https://epg.112114.xyz/logo/山西黄河.png" group-title="省内",山西黄河
@@ -201,13 +201,13 @@ http://192.168.31.1:8666/rtp/226.0.1.202:2085
 #EXTINF:-1,tvg-id="" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://192.168.31.1:8666/rtp/226.0.1.198:2103
 
-#EXTINF:-1,tvg-id="" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="上海",都市剧场
+#EXTINF:-1,tvg-id="" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="上海",都市剧场
 http://192.168.31.1:8666/rtp/226.0.1.174:2098
 
 #EXTINF:-1,tvg-id="" tvg-name="SITV东方财经" tvg-logo="https://epg.112114.xyz/logo/SITV东方财经.png" group-title="上海",东方财经
 http://192.168.31.1:8666/rtp/226.0.1.76:3118
 
-#EXTINF:-1,tvg-id="" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
+#EXTINF:-1,tvg-id="" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
 http://192.168.31.1:8666/rtp/226.0.1.176:2100
 
 #EXTINF:-1,tvg-id="" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
@@ -228,7 +228,7 @@ http://192.168.31.1:8666/rtp/226.0.1.109:2097
 #EXTINF:-1,tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
 http://192.168.31.1:8666/rtp/226.0.1.113:2098
 
-#EXTINF:-1,tvg-id="" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+#EXTINF:-1,tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
 http://192.168.31.1:8666/rtp/226.0.1.90:2078
 
 #EXTINF:-1,tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
