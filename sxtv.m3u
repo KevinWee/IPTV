@@ -177,19 +177,19 @@ http://192.168.31.1:8666/rtp/226.0.1.200:2006
 #EXTINF:-1,tvg-id="" tvg-name="黄河卫视" tvg-logo="https://epg.112114.xyz/logo/山西黄河.png" group-title="省内",山西黄河
 http://192.168.31.1:8666/rtp/226.0.1.84:2002
 
-#EXTINF:-1,tvg-id="" tvg-name="太原-1" tvg-logo="https://upload.112114.xyz/logo/tytv1.png" group-title="省内",太原新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="太原新闻综合" tvg-logo="https://upload.112114.xyz/logo/tytv1.png" group-title="省内",太原新闻综合
 http://192.168.31.1:8666/rtp/226.0.1.225:2001
 
-#EXTINF:-1,tvg-id="" tvg-name="太原-2" tvg-logo="https://upload.112114.xyz/logo/tytv2.png" group-title="省内",太原百姓
+#EXTINF:-1,tvg-id="" tvg-name="太原百姓" tvg-logo="https://upload.112114.xyz/logo/tytv2.png" group-title="省内",太原百姓
 http://192.168.31.1:8666/rtp/226.0.1.226:2002
 
-#EXTINF:-1,tvg-id="" tvg-name="太原-3" tvg-logo="https://upload.112114.xyz/logo/tytv3.png" group-title="省内",太原社教法制
+#EXTINF:-1,tvg-id="" tvg-name="太原社教法制" tvg-logo="https://upload.112114.xyz/logo/tytv3.png" group-title="省内",太原社教法制
 http://192.168.31.1:8666/rtp/226.0.1.227:2003
 
-#EXTINF:-1,tvg-id="" tvg-name="太原-4" tvg-logo="https://upload.112114.xyz/logo/tytv4.png" group-title="省内",太原影视
+#EXTINF:-1,tvg-id="" tvg-name="太原影视" tvg-logo="https://upload.112114.xyz/logo/tytv4.png" group-title="省内",太原影视
 http://192.168.31.1:8666/rtp/226.0.1.228:2004
 
-#EXTINF:-1,tvg-id="" tvg-name="太原-5" tvg-logo="https://upload.112114.xyz/logo/tytv5.png" group-title="省内",太原文体
+#EXTINF:-1,tvg-id="" tvg-name="太原文体" tvg-logo="https://upload.112114.xyz/logo/tytv5.png" group-title="省内",太原文体
 http://192.168.31.1:8666/rtp/226.0.1.229:2005
 
 #EXTINF:-1,tvg-id="" tvg-name="太原教育" tvg-logo="https://epg.112114.xyz/logo/太原教育.png" group-title="省内",太原教育
@@ -204,7 +204,7 @@ http://192.168.31.1:8666/rtp/226.0.1.198:2103
 #EXTINF:-1,tvg-id="" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="上海",都市剧场
 http://192.168.31.1:8666/rtp/226.0.1.174:2098
 
-#EXTINF:-1,tvg-id="" tvg-name="SITV东方财经" tvg-logo="https://epg.112114.xyz/logo/SITV东方财经.png" group-title="上海",东方财经
+#EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/SITV东方财经.png" group-title="上海",东方财经
 http://192.168.31.1:8666/rtp/226.0.1.76:3118
 
 #EXTINF:-1,tvg-id="" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
