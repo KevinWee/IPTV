@@ -3,7 +3,7 @@
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://upload.112114.xyz/logo/cctv1.png" group-title="央视",CCTV-1
 http://192.168.31.1:8666/rtp/226.0.1.157:3086
 
-#EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+#EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://upload.112114.xyz/logo/cctv2.png" group-title="央视",CCTV-2
 http://192.168.31.1:8666/rtp/226.0.1.158:3087
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
@@ -12,7 +12,7 @@ http://192.168.31.1:8666/rtp/226.0.1.141:2018
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
 http://192.168.31.1:8666/rtp/226.0.1.160:2019
 
-#EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+#EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://upload.112114.xyz/logo/cctv5.png" group-title="央视",CCTV-5
 http://192.168.31.1:8666/rtp/226.0.1.135:2020
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
@@ -60,7 +60,7 @@ http://192.168.31.1:8666/rtp/226.0.1.209:2122
 #EXTINF:-1,tvg-id="" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视风云",风云音乐
 http://192.168.31.1:8666/rtp/226.0.1.164:2109
 
-#EXTINF:-1,tvg-id="" tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="央视风云",央视文化精品
+#EXTINF:-1,tvg-id="" tvg-name="央视文化精品" tvg-logo="https://upload.112114.xyz/logo/cctvwhjp.png" group-title="央视风云",央视文化精品
 http://192.168.31.1:8666/rtp/226.0.1.162:2108
 
 #EXTINF:-1,tvg-id="" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视风云",第一剧场
@@ -75,7 +75,7 @@ http://192.168.31.1:8666/rtp/226.0.1.212:2133
 #EXTINF:-1,tvg-id="" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视风云",世界地理
 http://192.168.31.1:8666/rtp/226.0.1.169:2111
 
-#EXTINF:-1,tvg-id="" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视风云",兵器科技
+#EXTINF:-1,tvg-id="" tvg-name="兵器科技" tvg-logo="https://upload.112114.xyz/logo/cctvbqkj.png" group-title="央视风云",兵器科技
 http://192.168.31.1:8666/rtp/226.0.1.171:2115
 
 #EXTINF:-1,tvg-id="" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视风云",央视台球
