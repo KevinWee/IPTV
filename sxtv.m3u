@@ -192,7 +192,7 @@ http://192.168.31.1:8666/rtp/226.0.1.228:2004
 #EXTINF:-1,tvg-id="" tvg-name="太原文体" tvg-logo="https://upload.112114.xyz/logo/tytv5.png" group-title="省内",太原文体
 http://192.168.31.1:8666/rtp/226.0.1.229:2005
 
-#EXTINF:-1,tvg-id="" tvg-name="太原教育" tvg-logo="https://epg.112114.xyz/logo/太原教育.png" group-title="省内",太原教育
+#EXTINF:-1,tvg-id="" tvg-name="太原教育" tvg-logo="https://upload.112114.xyz/logo/TYETV.png" group-title="省内",太原教育
 http://192.168.31.1:8666/rtp/226.0.1.230:2006
 
 #EXTINF:-1,tvg-id="" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="上海",纪实人文
