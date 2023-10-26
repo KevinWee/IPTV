@@ -241,7 +241,7 @@ http://192.168.31.1:8666/rtp/226.0.1.97:3197
 http://192.168.31.1:8666/rtp/226.0.1.110:3190
 
 #EXTINF:-1,tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="其他",凤凰资讯
-https://z29tv.vercel.app/live/youtube/Q4J1ONrB3Do?quality=1080
+https://z29tv.vercel.app/live/youtube/bYBjjtgKUnM?quality=1080
 
 #EXTINF:-1,tvg-id="" tvg-name="TVBS News" tvg-logo="https://epg.112114.xyz/logo/tvbs.png" group-title="其他",TVBS News
 https://z29tv.vercel.app/live/youtube/m_dhMSvUCIc?quality=1080nv
