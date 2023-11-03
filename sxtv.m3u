@@ -240,6 +240,15 @@ http://192.168.31.1:8666/rtp/226.0.1.97:3197
 #EXTINF:-1,tvg-id="" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他",文物宝库
 http://192.168.31.1:8666/rtp/226.0.1.110:3190
 
+#EXTINF:-1,tvg-id="" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="其他",广州综合
+https://justsometime.gztv.com/sec/zhonghe.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="广州南国都市" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="其他",广州南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="其他",广州影视
+https://justsometime.gztv.com/sec/yingshi.m3u8
+
 #EXTINF:-1,tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="其他",凤凰资讯
 https://z29tv.vercel.app/live/youtube/bYBjjtgKUnM?quality=1080
 
