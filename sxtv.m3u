@@ -222,7 +222,7 @@ http://192.168.31.1:8666/rtp/226.0.1.173:2096
 #EXTINF:-1,tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 http://192.168.31.1:8666/rtp/226.0.1.108:2096
 
-#EXTINF:-1,tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
+#EXTINF:-1,tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="其他",CHC影迷电影
 http://192.168.31.1:8666/rtp/226.0.1.109:2097
 
 #EXTINF:-1,tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
