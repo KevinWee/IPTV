@@ -195,6 +195,42 @@ http://192.168.31.1:8666/rtp/226.0.1.229:2005
 #EXTINF:-1,tvg-id="" tvg-name="太原教育" tvg-logo="https://upload.112114.xyz/logo/TYETV.png" group-title="省内",太原教育
 http://192.168.31.1:8666/rtp/226.0.1.230:2006
 
+#EXTINF:-1,tvg-id="" tvg-name="清徐" tvg-logo="https://upload.112114.xyz/logo/清徐.png" group-title="省内",清徐
+http://192.168.31.1:8666/rtp/226.0.2.191:9440
+
+#EXTINF:-1,tvg-id="" tvg-name="晋中综合" tvg-logo="https://upload.112114.xyz/logo/晋中综合.png" group-title="省内",晋中综合
+http://192.168.31.1:8666/rtp/226.0.2.74:9832
+
+#EXTINF:-1,tvg-id="" tvg-name="晋中公共" tvg-logo="https://upload.112114.xyz/logo/晋中公共.png" group-title="省内",晋中公共
+http://192.168.31.1:8666/rtp/226.0.2.75:9840
+
+#EXTINF:-1,tvg-id="" tvg-name="运城1" tvg-logo="https://upload.112114.xyz/logo/运城1.png" group-title="省内",运城1
+http://192.168.31.1:8666/rtp/226.0.2.158:9896
+
+#EXTINF:-1,tvg-id="" tvg-name="运城2" tvg-logo="https://upload.112114.xyz/logo/运城2.png" group-title="省内",运城2
+http://192.168.31.1:8666/rtp/226.0.2.105:9010
+
+#EXTINF:-1,tvg-id="" tvg-name="盐湖频道" tvg-logo="https://upload.112114.xyz/logo/盐湖频道.png" group-title="省内",盐湖频道
+http://192.168.31.1:8666/rtp/226.0.2.106:9006
+
+#EXTINF:-1,tvg-id="" tvg-name="昔阳" tvg-logo="https://upload.112114.xyz/logo/昔阳.png" group-title="省内",昔阳
+http://192.168.31.1:8666/rtp/226.0.2.80:9848
+
+#EXTINF:-1,tvg-id="" tvg-name="灵石综合" tvg-logo="https://upload.112114.xyz/logo/灵石综合.png" group-title="省内",灵石综合
+http://192.168.31.1:8666/rtp/226.0.2.91:9872
+
+#EXTINF:-1,tvg-id="" tvg-name="潞州" tvg-logo="https://upload.112114.xyz/logo/潞州.png" group-title="省内",潞州
+http://192.168.31.1:8666/rtp/226.0.2.117:9888
+
+#EXTINF:-1,tvg-id="" tvg-name="长钢" tvg-logo="https://upload.112114.xyz/logo/长钢.png" group-title="省内",长钢HD
+http://192.168.31.1:8666/rtp/226.0.2.87:9856
+
+#EXTINF:-1,tvg-id="" tvg-name="焦煤" tvg-logo="https://upload.112114.xyz/logo/焦煤.png" group-title="省内",焦煤
+http://192.168.31.1:8666/rtp/226.0.2.157:9892
+
+#EXTINF:-1,tvg-id="" tvg-name="晋能控股" tvg-logo="https://upload.112114.xyz/logo/晋能控股.png" group-title="省内",晋能控股
+http://192.168.31.1:8666/rtp/226.0.2.229:9744
+
 #EXTINF:-1,tvg-id="" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="上海",纪实人文
 http://192.168.31.1:8666/rtp/226.0.1.202:2085
 
